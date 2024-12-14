@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="ComUtilsTest" time="0.313" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="18"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/polg24/Pol/UB/Semestre10/Software_Distribuit/practica-1-f8/Practica1/ComUtils/target/test-classes:/home/polg24/.m2/repository/junit/junit/4.13.1/junit-4.13.1.jar:/home/polg24/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.vm.vendor" value="Private Build"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="Unknown"/>
+    <property name="os.name" value="Linux"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-18-openjdk-amd64/lib"/>
+    <property name="sun.java.command" value="org.apache.maven.surefire.booter.ForkedBooter /home/polg24/Pol/UB/Semestre10/Software_Distribuit/practica-1-f8/Practica1/ComUtils/target/surefire 2024-03-19T23-08-32_497-jvmRun1 surefire-20240319230832735_1tmp surefire_0-20240319230832735_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/polg24/Pol/UB/Semestre10/Software_Distribuit/practica-1-f8/Practica1/ComUtils/target/test-classes:/home/polg24/.m2/repository/junit/junit/4.13.1/junit-4.13.1.jar:/home/polg24/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/polg24"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="jdk.module.path" value="/home/polg24/Pol/UB/Semestre10/Software_Distribuit/practica-1-f8/Practica1/ComUtils/target/classes"/>
+    <property name="java.version.date" value="2022-07-19"/>
+    <property name="java.home" value="/usr/lib/jvm/java-18-openjdk-amd64"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/polg24/Pol/UB/Semestre10/Software_Distribuit/practica-1-f8/Practica1/ComUtils"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="surefire.real.class.path" value="/home/polg24/.m2/repository/org/apache/maven/surefire/surefire-booter/3.2.2/surefire-booter-3.2.2.jar:/home/polg24/.m2/repository/org/apache/maven/surefire/surefire-api/3.2.2/surefire-api-3.2.2.jar:/home/polg24/.m2/repository/org/apache/maven/surefire/surefire-logger-api/3.2.2/surefire-logger-api-3.2.2.jar:/home/polg24/.m2/repository/org/apache/maven/surefire/surefire-shared-utils/3.2.2/surefire-shared-utils-3.2.2.jar:/home/polg24/.m2/repository/org/apache/maven/surefire/surefire-extensions-spi/3.2.2/surefire-extensions-spi-3.2.2.jar:/home/polg24/Pol/UB/Semestre10/Software_Distribuit/practica-1-f8/Practica1/ComUtils/target/test-classes:/home/polg24/.m2/repository/junit/junit/4.13.1/junit-4.13.1.jar:/home/polg24/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/polg24/.m2/repository/org/apache/maven/surefire/surefire-junit4/3.2.2/surefire-junit4-3.2.2.jar:/home/polg24/.m2/repository/org/apache/maven/surefire/common-java5/3.2.2/common-java5-3.2.2.jar:/home/polg24/.m2/repository/org/apache/maven/surefire/common-junit3/3.2.2/common-junit3-3.2.2.jar:/home/polg24/.m2/repository/org/apache/maven/surefire/common-junit4/3.2.2/common-junit4-3.2.2.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="18.0.2-ea+9-Ubuntu-222.04"/>
+    <property name="user.name" value="polg24"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.15.0-100-generic"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/polg24/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="Unknown"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="18.0.2-ea"/>
+    <property name="user.dir" value="/home/polg24/Pol/UB/Semestre10/Software_Distribuit/practica-1-f8/Practica1/ComUtils"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Private Build"/>
+    <property name="java.vm.version" value="18.0.2-ea+9-Ubuntu-222.04"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="62.0"/>
+  </properties>
+  <testcase name="write_read_char_test" classname="ComUtilsTest" time="0.004"/>
+  <testcase name="read_variable_string_test" classname="ComUtilsTest" time="0.166"/>
+  <testcase name="write_read_byte" classname="ComUtilsTest" time="0.001"/>
+  <testcase name="example_test" classname="ComUtilsTest" time="0.094"/>
+</testsuite>
