@@ -1,5 +1,5 @@
 # ClientServerTicTacToe
-University project: Producer-consumer model example. TicTacToe game coded in Java following a custom communication protocol.
+University project: Client-server model example. TicTacToe game coded in Java following a custom communication protocol.
 
 ## Single player
 The server waits for a client to connect. Clients are handled in multiple threads and the server uses the Minimax algorithm to play against them.
